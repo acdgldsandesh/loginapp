@@ -5,7 +5,7 @@ Enter following commands from your application directory
 
 //Install libraries
 
-npm install express body-parser mongodb
+npm install 
 
 //run the application
 
